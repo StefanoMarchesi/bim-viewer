@@ -1,0 +1,16 @@
+{
+  "id": "otcConferenceCenter",
+  "name": "OTC Conference Center",
+  "models": [
+    {
+      "id": "design",
+      "name": "OTC Conference Center Design",
+      "default": true
+    }
+  ],
+  "viewerContent": {
+    "modelsLoaded": [
+      "design"
+    ]
+  }
+}
