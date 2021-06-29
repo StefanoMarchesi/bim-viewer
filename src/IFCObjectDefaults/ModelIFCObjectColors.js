@@ -11,7 +11,9 @@
  */
 const ModelIFCObjectColors = {
     IfcSpace: {
-        opacity: 0.3
+        opacity: 0.3,
+        visible: true,
+        pickable: true,
     },
     IfcWindow: { // Some IFC models have opaque windows
         opacity: 0.4
