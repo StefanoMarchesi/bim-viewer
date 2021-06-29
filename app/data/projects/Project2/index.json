@@ -1,0 +1,23 @@
+{
+    "id": "project2",
+    "name": "project2",
+    "models": [
+        {
+            "id": "design",
+            "name": "design"
+        }
+    ],
+    "viewerConfigs": {
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "classes",
+        "expandObjectsTree": 1,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1
+    }
+}
