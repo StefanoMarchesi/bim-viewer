@@ -19,5 +19,6 @@
         "expandObjectsTree": 1,
         "expandClassesTree": 1,
         "expandStoreysTree": 1
-    }
+    },
+    "excludeTypes": ["IfcSpace"]
 }
