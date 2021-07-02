@@ -3,15 +3,15 @@
     "name": "project2",
     "models": [
         {
-            "id": "Duplex_A_20110505_IssuesAlternate",
-            "name": "Duplex_A_20110505_IssuesAlternate"
+            "id": "test",
+            "name": "test"
         }
     ],
     "viewerConfigs": {
     },
     "viewerContent": {
         "modelsLoaded": [
-            "Duplex_A_20110505_IssuesAlternate"
+            "test"
         ]
     },
     "viewerState": {
